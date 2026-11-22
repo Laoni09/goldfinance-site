@@ -1,0 +1,38 @@
+{
+    "name": "GoldFinance",
+    "short_name": "GoldFinance",
+    "id": ".",
+    "start_url": ".",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#F8F9F5",
+    "theme_color": "#C9A227",
+    "description": "Finanças pessoais que gravam entradas e saídas na sua planilha do Google Sheets.",
+    "lang": "pt-BR",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
